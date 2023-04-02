@@ -69,3 +69,12 @@ body {
     border-radius: 20px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
+
+.section {
+    background-color: hsl(205, 100%, 96%);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    max-width: 1300px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 50px;
+}
